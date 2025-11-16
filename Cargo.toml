@@ -1,4 +1,6 @@
 [workspace]
+resolver = "3"
+
 members = [
     "1_concepts",
     "1_concepts/1_*",
